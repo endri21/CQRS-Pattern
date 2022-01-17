@@ -1,0 +1,12 @@
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\bin\Release\net6.0\EmployeeManagementLibrary.deps.json
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\bin\Release\net6.0\EmployeeManagementLibrary.dll
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\bin\Release\net6.0\ref\EmployeeManagementLibrary.dll
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\bin\Release\net6.0\EmployeeManagementLibrary.pdb
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.AssemblyInfo.cs
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.dll
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\ref\EmployeeManagementLibrary.dll
+C:\Users\3i-solutions\source\repos\EmployeeManagement.API\EmployeeManagementLibrary\obj\Release\net6.0\EmployeeManagementLibrary.pdb

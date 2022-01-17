@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\www</_PublishTargetUrl>
+    <History>False|2021-11-19T10:51:20.1411538Z;True|2021-11-19T11:46:03.7889226+01:00;False|2021-11-19T11:44:41.2722164+01:00;False|2021-11-19T11:41:58.2819984+01:00;False|2021-11-19T11:40:57.6349390+01:00;False|2021-11-19T11:39:48.6121067+01:00;True|2021-11-19T10:05:30.9421398+01:00;False|2021-11-19T10:02:55.8228396+01:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>a281f1d2-2edd-47f1-8440-eed37adc5cf1</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Kestrel:Certificates:Development:Password">
+      <Value>a281f1d2-2edd-47f1-8440-eed37adc5cf1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60e372db-598d-4b63-b97b-ac8586b450c2": {
+      "ProjectGuid": "60e372db-598d-4b63-b97b-ac8586b450c2",
+      "DisplayName": "EmployeeManagement.API",
+      "ColorIndex": 0
+    },
+    "ea4c4967-2be0-475b-b11d-562d769ec141": {
+      "ProjectGuid": "ea4c4967-2be0-475b-b11d-562d769ec141",
+      "DisplayName": "EmployeeManagementLibrary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0806039c-e6e9-48f0-b085-1f9db6b7f82e": {
+      "ProjectGuid": "0806039c-e6e9-48f0-b085-1f9db6b7f82e",
+      "DisplayName": "EmployeeTest",
+      "ColorIndex": 2
+    },
+    "3e54e8cd-a9fa-4ea4-87f3-a5540a7bf864": {
+      "ProjectGuid": "3e54e8cd-a9fa-4ea4-87f3-a5540a7bf864",
+      "DisplayName": "test",
+      "ColorIndex": 3
+    },
+    "c362d3d7-79f5-4362-bdc7-119dbbde5b08": {
+      "ProjectGuid": "c362d3d7-79f5-4362-bdc7-119dbbde5b08",
+      "DisplayName": "NUnitTest",
+      "ColorIndex": 4
+    },
+    "cab822ee-cfc2-4796-8a61-e57e0e0be500": {
+      "ProjectGuid": "cab822ee-cfc2-4796-8a61-e57e0e0be500",
+      "DisplayName": "XUnitTest",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
